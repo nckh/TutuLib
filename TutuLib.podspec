@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TutuLib'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.'
   s.description      = 'Ut enim ad minim veniam,
